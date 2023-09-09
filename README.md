@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gianmarco</h1>
-<h3 align="center">Computer science graduate, Master's student of artificial intelligence and robotics</h3>
+<h1 align="left">Hi there, I'm Gianmarco👋</h1>
+<h3 align="left">Computer science graduate, Master's student of Artificial Intelligence and Robotics (AIRO) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianmarcodonnesi&label=Profile%20views&color=0e75b6&style=flat" alt="gianmarcodonnesi" /> </p>
 
