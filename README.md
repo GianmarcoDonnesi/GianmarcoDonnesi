@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Gianmarco👋</h1>
 <h3 align="left">Computer science graduate, Master's student of Artificial Intelligence and Robotics (AIRO) 🦾 </h3>
 
-<h3 align="left">How to reach me 📫: gianmarco.donnesi@outlook.it </h3>
+<h3 align="left">How to reach me 📫: <ins> gianmarco.donnesi@outlook.it </ins>  </h3>
 <p align="left">
 </p>
 
