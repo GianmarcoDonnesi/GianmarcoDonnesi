@@ -1,11 +1,7 @@
 <h1 align="left">Hi there, I'm Gianmarco👋</h1>
-<h3 align="left">Computer science graduate, Master's student of Artificial Intelligence and Robotics (AIRO) </h3>
+<h3 align="left">Computer science graduate, Master's student of Artificial Intelligence and Robotics (AIRO) 🦾 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gianmarcodonnesi&label=Profile%20views&color=0e75b6&style=flat" alt="gianmarcodonnesi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianmarcodonnesi" alt="gianmarcodonnesi" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me 📫: gianmarco.donnesi@outlook.it </h3>
 <p align="left">
 </p>
 
