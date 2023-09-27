@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Gianmarco 🧑‍💻</h1>
+<h1 align="left">Hi, I'm Gianmarco 🧑‍💻</h1>
 <h3 align="center">Computer Science graduate, Master's student of Artificial Intelligence and Robotics</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianmarcodonnesi" alt="gianmarcodonnesi" /></a> </p>
 
 - 📫 How to reach me **gianmarco.donnesi@outlook.it**
 
