@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Gianmarco 🧑‍💻</h1>
-<h3 align="center">Computer Science graduate, Master's student of Artificial Intelligence and Robotics</h3>
+<h3 align="left">Computer Science graduate, Master's student of Artificial Intelligence and Robotics</h3>
 
 - 📫 How to reach me **gianmarco.donnesi@outlook.it**
 
