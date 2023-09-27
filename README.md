@@ -1,7 +1,11 @@
-<h1 align="left">Hi there, I'm Gianmarco👋</h1>
-<h3 align="left">Computer science graduate, Master's student of Artificial Intelligence and Robotics (AIRO) 🦾 </h3>
+<h1 align="center">Hi, I'm Gianmarco</h1>
+<h3 align="center">Computer Science graduate, Master's student of Artificial Intelligence and Robotics</h3>
 
-<h3 align="left">How to reach me 📫: <ins> gianmarco.donnesi@outlook.it </ins>  </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianmarcodonnesi" alt="gianmarcodonnesi" /></a> </p>
+
+- 📫 How to reach me **gianmarco.donnesi@outlook.it**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -10,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianmarcodonnesi&show_icons=true&locale=en&layout=compact" alt="gianmarcodonnesi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gianmarcodonnesi&" alt="gianmarcodonnesi" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gianmarcodonnesi&show_icons=true&locale=en" alt="gianmarcodonnesi" /></p>
 
