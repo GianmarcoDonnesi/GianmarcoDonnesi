@@ -2,7 +2,7 @@
 <h3 align="left">Computer Science graduate, Master's student of Artificial Intelligence and Robotics</h3>
 
 <h3 align="left">How to reach me:</h3>
-- 📫 email: gianmarco.donnesi@outlook.it
+- 📫 email: **gianmarco.donnesi@outlook.it**
 
 <p align="left">
 </p>
