@@ -1,7 +1,8 @@
 <h1 align="left">Hi, I'm Gianmarco 🧑‍💻</h1>
 <h3 align="left">Computer Science graduate, Master's student of Artificial Intelligence and Robotics</h3>
 
-- 📫 How to reach me **gianmarco.donnesi@outlook.it**
+<h5 align="left">How to reach me</h5>
+- 📫 **email**: **gianmarco.donnesi@outlook.it**
 
 <p align="left">
 </p>
