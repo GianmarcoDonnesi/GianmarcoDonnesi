@@ -10,8 +10,8 @@
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GianmarcoDonnesi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="GithHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianmarcoDonnesi&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmarcoDonnesi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
