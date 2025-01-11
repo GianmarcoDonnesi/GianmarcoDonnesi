@@ -1,6 +1,6 @@
 # Hi, I'm Gianmarco 🧑🏽‍💻
-🎓 **Computer Science graduate**
-📚 **Master's student of Artificial Intelligence and Robotics**
+🎓 **Computer Science graduate**  
+📚 **Master's student of Artificial Intelligence and Robotics**  
 📫 **How to reach me:** [gianmarco.donnesi@outlook.it](mailto:gianmarco.donnesi@outlook.it)
 
 ## 💻 Tech Stack:
